@@ -22,6 +22,9 @@
 | AIDA64 | 硬件检测工具| https://www.aida64.com/ |
 | AS SSD Benchmark | 固态硬盘测速工具 | https://as-ssd-benchmark.en.softonic.com/ |
 | Dism++ | 系统精简工具| http://www.chuyu.me/zh-Hans/index.html |
+| WizTree | 可视化磁盘分析 | https://antibody-software.com/web/index.php |
+
+
 
 ### Chrome Extensions
 | Name        | Description      | ID  |
