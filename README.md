@@ -13,7 +13,7 @@
 | Sharex      | 截图工具  |http://www.getsharex.com/ 或 https://store.steampowered.com/app/400040/ShareX/ |
 | 坚果云      | 网盘  | https://www.jianguoyun.com/  |
 | Foxmail      | 邮件客户端软件  | www.foxmail.com/  |
-| IDM    | 下载软件（不支持BT）  | http://www.internetdownloadmanager.com/ |
+| Free Download Manager   | 下载软件  | https://www.freedownloadmanager.org |
 | OneNote      | 笔记软件  |https://www.onenote.com/  |
 | Shadowsocks     | 科学上网工具  |https://github.com/shadowsocks/shadowsocks-windows  |
 | Visual Studio Code | 代码编辑器| https://code.visualstudio.com/ |
@@ -21,6 +21,7 @@
 | Discord |语音聊天沟通软件| https://discordapp.com/|
 | AIDA64 | 硬件检测工具| https://www.aida64.com/ |
 | AS SSD Benchmark | 固态硬盘测速工具 | https://as-ssd-benchmark.en.softonic.com/ |
+| Dism++ | 系统精简工具| http://www.chuyu.me/zh-Hans/index.html |
 
 ### Chrome Extensions
 | Name        | Description      | ID  |
@@ -31,7 +32,7 @@
 | Momentum    | 新标签页美化   | laookkfknpbbblfpciffpaejjkokdgca |
 | Enable Copy   | 强制拷贝    | lmnganadkecefnhncokdlaohlkneihio |
 | 医学文献助手    | Pubmed插件    | kgdcooicefdfjcplcnehfpbngjccncko |
-| Enable Copy   | 强制拷贝    | lmnganadkecefnhncokdlaohlkneihio |
+| 右键搜   | 右键菜单拓展    | phlfmkfpmphogkomddckmggcfpmfchpn |
 | Tampermonkey  | 脚本管理    | dhdgffkkebhmkfjojejmpbldmpobfkfo |
 
 注：油猴脚本资源站  https://greasyfork.org/zh-CN
