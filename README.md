@@ -5,7 +5,7 @@
 | Potplayer     |媒体播放器 | https://potplayer.daum.net/ |
 | Foorbar2000    | 音频播放器     | http://www.foobar2000.org/ |
 | Google Chrome | 网页浏览器     | https://www.google.com/chrome/ |
-| Ccleaner | 垃圾清理软件（无需安装额外杀毒软件）   | https://www.ccleaner.com/ |
+| Ccleaner | 垃圾清理软件  | https://www.ccleaner.com/ |
 | Everything     | 文件搜索工具  | http://www.voidtools.com/ |
 | Bandizip      | 压缩软件  | http://www.bandisoft.com/bandizip/ |
 | Revo Uninstaller    | 软件卸载工具  | https://www.revouninstaller.com/ |
