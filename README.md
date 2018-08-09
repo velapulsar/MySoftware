@@ -2,7 +2,7 @@
 
 | Name        | Description      | URL  |
 | ---- | ----------- | ----- |
-| Potplayer     | 媒体播放器 | https://potplayer.daum.net/ |
+| Potplayer     |媒体播放器 | https://potplayer.daum.net/ |
 | Foorbar2000    | 音频播放器     | http://www.foobar2000.org/ |
 | Google Chrome | 网页浏览器     | https://www.google.com/chrome/ |
 | Ccleaner | 垃圾清理软件（无需安装额外杀毒软件）   | https://www.ccleaner.com/ |
@@ -10,9 +10,9 @@
 | Bandizip      | 压缩软件  | http://www.bandisoft.com/bandizip/ |
 | Revo Uninstaller    | 软件卸载工具  | https://www.revouninstaller.com/ |
 | Adobe Acrobat  | PDF编辑软件  | https://www.adobe.com/downloads.html |
-| Sharex      | 截图工具  |http://www.getsharex.com/ 或 https://store.steampowered.com/app/400040/ShareX/ |
+| Sharex      | 截图工具  |https://store.steampowered.com/app/400040/ShareX/ |
 | 坚果云      | 网盘  | https://www.jianguoyun.com/  |
-| Foxmail      | 邮件客户端软件  | www.foxmail.com/  |
+| Google Drive      | 云端硬盘  | https://drive.google.com/ |
 | Free Download Manager   | 下载软件  | https://www.freedownloadmanager.org |
 | OneNote      | 笔记软件  |https://www.onenote.com/  |
 | Shadowsocks     | 科学上网工具  |https://github.com/shadowsocks/shadowsocks-windows  |
@@ -29,7 +29,7 @@
 ### Chrome Extensions
 | Name        | Description      | ID  |
 | ---- | ----------- | ----- |
-| LastPass     | 密码管理软件（安全性有争议） | hdokiejnpimakedhajhdlcegeplioahd  |
+| LastPass     | 密码管理软件 | hdokiejnpimakedhajhdlcegeplioahd  |
 | Adblock Plus    | 广告拦截软件    | cfhdojbkjhnklbpkdaibdccddilifddb |
 | 惠惠购物助手    | 比价软件    | ohjkicjidmohhfcjjlahfppkdblibkkb |
 | Momentum    | 新标签页美化   | laookkfknpbbblfpciffpaejjkokdgca |
